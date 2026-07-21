@@ -13,7 +13,7 @@ project:
   tiles:        "1x1"
 
   # Your top module name in project.v
-  top_module:   "tt_um_example"
+  top_module:   "tt_um_sebastiandanquah_traffic_light"
 
   # Source files inside the src/ directory
   source_files:
