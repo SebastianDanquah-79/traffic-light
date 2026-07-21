@@ -10,7 +10,14 @@ Tiny Tapeout is an educational project that aims to make it easier and cheaper t
 
 To learn more and get started, visit https://tinytapeout.com.
 
-## Set up your Verilog project
+<img width="1240" height="588" alt="Screenshot_20-7-2026_204757_gds-viewer tinytapeout com" src="https://github.com/user-attachments/assets/7ac7cbda-5590-4871-b507-1a087cf793ab" />
+<img width="1240" height="588" alt="Screenshot_20-7-2026_204846_gds-viewer tinytapeout com" src="https://github.com/user-attachments/assets/ae08e25a-aba7-4a3f-bb63-e2fa809b0be1" />
+<img width="1240" height="588" alt="Screenshot_20-7-2026_20495_gds-viewer tinytapeout com" src="https://github.com/user-attachments/assets/6b7f70e7-c114-4260-a674-28b0b9d8cec1" />
+<img width="1240" height="588" alt="Screenshot_20-7-2026_204923_gds-viewer tinytapeout com" src="https://github.com/user-attachments/assets/c1264535-22c4-43c6-847d-b81c13cae38d" />
+<img width="1240" height="588" alt="Screenshot_20-7-2026_204941_gds-viewer tinytapeout com" src="https://github.com/user-attachments/assets/a8f89696-e385-4ad5-ac58-923d2589e8e2" />
+<img width="1240" height="588" alt="Screenshot_20-7-2026_205152_gds-viewer tinytapeout com" src="https://github.com/user-attachments/assets/c78407e1-d90a-478d-a2b7-f8c15f85d638" />
+
+
 
 1. Add your Verilog files to the `src` folder.
 2. Edit the [info.yaml](info.yaml) and update information about your project, paying special attention to the `source_files` and `top_module` properties. If you are upgrading an existing Tiny Tapeout project, check out our [online info.yaml migration tool](https://tinytapeout.github.io/tt-yaml-upgrade-tool/).
