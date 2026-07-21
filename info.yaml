@@ -1,4 +1,5 @@
 # Tiny Tapeout project configuration
+yaml_version: 6
 
 project:
   title:        "Adaptive Traffic Light Controller"
@@ -8,7 +9,7 @@ project:
   language:     "Verilog"
   clock_hz:     0
 
-  # How many tiles your design occupies? (1x1 is standard)
+  # How many tiles your design occupies
   tiles:        "1x1"
 
   # Your top module name in project.v
