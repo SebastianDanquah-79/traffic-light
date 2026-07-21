@@ -9,12 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+This project implements an adaptive traffic light controller using digital logic gates in Verilog. It processes sensor and timer inputs to drive RGB light outputs.
 
 ## How to test
 
-Explain how to use your project
-
+Toggle input pins 0 (sensor) and 1 (timer) using the DIP switches to observe the red, green, and yellow output states.
 ## External hardware
 
 List external hardware used in your project (e.g. PMOD, LED display, etc), if any
